@@ -11,7 +11,7 @@ layout: feed
 	<id>http://frydaho.github.io/blog</id>
 	<author>
 		<name>Timothy Fry</name>
-		<email>tim@frydaho.com</email>
+		<email>timothy@altcpa.tax</email>
 	</author>
 
 	{% for post in site.posts %}
