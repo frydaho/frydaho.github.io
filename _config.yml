@@ -2,3 +2,4 @@ name: Timothy Fry, Owner, Frydaho
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+theme: jekyll-theme-midnight
