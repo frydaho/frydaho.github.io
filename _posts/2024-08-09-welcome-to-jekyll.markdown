@@ -1,29 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "More to come..."
 date:   2024-08-09 16:11:10 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is simply a placeholder, but I do want to offer a few initial thoughts...
 
-Jekyll requires blog post files to be named according to the following format:
+This is a site about many things, but what ties all those things together is the impetus by which all valuable things are created: Reason.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The underlying thread in this work will be *reason*, no matter the specific topic of the various posts. **Reason** is what's missing from those things that *seem* as though they *should have* value, yet lack it. More specifically, reason is what's missing from the crap that *claims* to have value (and does not) which utterly pervades everything in the contemporary era.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Call it a new dark age; call it postmodernism run amok (not to repeat myself) ... where reason is absent, value is absent. Yes, this includes culture and, yes, that specific culture you're defending with the lie that "all culture has value". No. False. That may sound like "colonialism" (or whatever nonsense term you're using to rationalize your lack of success while taking no personal responsibility) to you which, if it does, means that this is an invitation for you to grow up and start using reason yourself. 
 
-Jekyll also offers powerful support for code snippets:
+Man is everywhere in chains because he has abdicated the use of reason and, if you seek freedom, welcome to the club of reason: you're the one-eyed man in the land of the blind!!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Finally, I am no one. You will find no convinient pretext to reassure yourself that it's a good idea to listen to me. I am utterly (and intentionally) unlettered, an automath, and am so proudly: I have no *bona fides* with which to confuse what I know with an appeal for misplaced authority in the eyes of others. **You** decide if what I say has value, on its merits. No one vouches for me, I reject all indoctrination in favor of Truth, and that's how I like it.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Listen if you care to hear what I have to say; feel free to move on if what I say holds no interest.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+God bless you, and may the God who gave us all the possiblity of knowing His truth through reason be blessed!
+
+T. Fry
