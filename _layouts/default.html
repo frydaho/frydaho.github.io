@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<!--<link rel="icon" type="image/png" href="/perso/nrougier/images/rougier-32x32.png" sizes="32x32"> -->
 
     <title>Timothy Fry</title>
     <meta name="description" content="Timothy Fry's homepage">
@@ -37,7 +36,7 @@
 	</p>
 	<p>
 	  Since my early programming experience, I went on to learn and work in C, Python (2 and 3), Lisp,
-	  Lua, as well as HTML and CSS. I have worked on volunteer pects, such as a Mandrake Linux
+	  Lua, as well as HTML and CSS. I have worked on volunteer projects, such as a Mandrake Linux
 	  (pre-Mandriva) and Arch Linux package maintanier, as well as chasing bugs for various GitHub
 	  repos. Most recently I have learned and worked in the Go programming language.
 	</p>
@@ -54,6 +53,8 @@
 	  science or electronics, and the confluence of the two is my ultimate happy place!
 	</p>
     </div>
+
+<!-- Frame for displaying posts -->
     <div class="document">
       <h1>
 	<strong>UPDATES</strong>
@@ -63,7 +64,46 @@
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
-  {% endfor %}
+    {% endfor %}
 </ul>
+</div>
+
+<!-- Listing posts by Tags --> 
+    <div class="document">
+      <h1>
+	<strong>TAGS</strong>
+      </h1>
+      {% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+    </div>
 </body>
-<footer></footer>
+<footer>
+  <div class="document">
+    <h1>
+      <strong>CREDITS</strong>
+    </h1>
+    <h4>
+      Nicolas P. Rougier
+    </h4>
+    <p>
+      I am deeply indebted to Nicolas P. Rougier who, in his fantastic and incredibly useful post on GTD and Org-Mode, graciously
+      shared the stylesheet for his own site, much of which I have either adapted or adopted for this site. I so dearly
+      love the beautiful simplicity and minimalism of his site, which draws the reader in and presents the valuable
+      information he shares in a way that's free from distraction, that I was couldn't find a substantive change to make
+      to improve on his design! Layout, typeset, and colors are all his creation; deceptively simple, yet profound!
+    </p>
+    <p>
+      While I have adapted it for my own purposes, if you visit his site (<a href="https://www.labri.fr/perso/nrougier/">here</a>)
+      you will see just how unoriginal I am!  Thank you, Nicolas, not only for your excellent article (<a href="https://www.labri.fr/perso/nrougier/GTD/index.html">"GET THINGS DONE WITH EMACS"</a>),
+      but for your impeccable design, taste, and generousity.
+    </p>
+    <p>
+      His article and design are written under the <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 international license</a>,
+      so feel free to use it, and be sure to give credit to him (not to me).
+</footer>
