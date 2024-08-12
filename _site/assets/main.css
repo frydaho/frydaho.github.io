@@ -132,64 +132,6 @@ ol.bibliography {
   list-style-type: decimal;
 }
 
-#rougier\:invited\:2006a i:first-of-type,
-#rougier\:invited\:2014c i:first-of-type,
-#rougier\:invited\:2018a i:first-of-type,
-#rougier\:invited\:2021a i:first-of-type,
-#rougier\:invited\:2023k i:first-of-type,
-#topalidou\:article\:2018a i:first-of-type,
-#nioche\:article\:2020a i:first-of-type,
-#detorakis\:article\:2020a i:first-of-type,
-#strock\:article\:2020b i:first-of-type,
-#roesch\:article\:2020 i:first-of-type,
-#thompson\:article\:2020a i:first-of-type,
-#hinsen\:correspondence\:2019b i:first-of-type,
-#rougier\:correspondence\:2018a i:first-of-type,
-#bourdenx\:article\:2020a i:first-of-type,
-#nioche\:article\:2019b i:first-of-type,
-#nioche\:article\:2019a i:first-of-type,
-#rougier\:article\:2005a i:first-of-type,
-#rougier\:article\:2021a i:first-of-type,
-#boraud\:article\:2018a i:first-of-type,
-#piron\:article\:2016a i:first-of-type,
-#nature\:external\:2014a i:first-of-type,
-#woolston\:external\:2014a i:first-of-type,
-#hutson\:external\:2018a i:first-of-type,
-#perkel\:article\:2020a i:first-of-type,
-#strock\:article\:2020a i:first-of-type,
-#upegui\:conf\:2018a i:first-of-type,
-#rougier\:conf\:2018b i:first-of-type,
-#rougier\:conf\:2018a i:first-of-type,
-#rougier\:conf\:2019a i:first-of-type,
-#strock\:conf\:2018a i:first-of-type,
-#rougier\:article\:2014b i:first-of-type,
-#rougier\:article\:2011a i:first-of-type,
-#rougier\:article\:2006a i:first-of-type,
-#hutt\:article\:2010a i:first-of-type {
-  color: #F4511E;
-  font-weight: 500;
-  white-space: nowrap;
-  /*
-      background-color: #fffff0;
-      border: 0.5px solid #ddddd0;
-      border-radius: 2px;
-      padding: 2px 5px 0px 5px;
-      margin: 0;
-      margin-left: 1px;
-      margin-right: 1px;
-      font-size: 95%;
-      font-weight: 500;
-  */
-  /*
-      color: black;
-      background-color: #f0f0f0;
-      border: 0.5px solid #999999;
-      border-radius: 2px;
-      padding-left:.5em;
-      padding-right:.5em;
-  */
-}
-
 ol.bibliography li {
   padding-bottom: 0.125em;
 }
