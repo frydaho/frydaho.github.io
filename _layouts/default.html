@@ -20,11 +20,13 @@
                 <strong>TIMOTHY FRY</strong>
             </a>
              | 
-            <a href="https://timothyfry.com/resume.html">RÉSUMÉ</a>
+            <a href="https://timothyfry.com/cv.html">CV</a>
              | 
             <a href="https://github.com/frydaho">GITHUB</a>
              | 
-            <a href="https://timothyfry.com/#news">NEWS</a>
+            <a href="https://timothyfry.com/#news">POSTS</a>
+	    |
+	    <a href="https://timothyfry.com/feed.xml">FEED</a>
         </h1>
 
         <p>
@@ -51,4 +53,17 @@
 	  Nothing in this world captivates and excites me like a novel challenge in the fields of computer
 	  science or electronics, and the confluence of the two is my ultimate happy place!
 	</p>
-	
+    </div>
+    <div class="document">
+      <h1>
+	<strong>UPDATES</strong>
+      </h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+</body>
+<footer></footer>
