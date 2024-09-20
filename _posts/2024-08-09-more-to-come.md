@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: posts
 title:  "More to come..."
 date:   2024-08-09 16:11:10 -0700
-categories: jekyll update
+tags:   reason
 ---
 This is simply a placeholder, but I do want to offer a few initial thoughts...
 
@@ -10,7 +10,7 @@ This is a site about many things, but what ties all those things together is the
 
 The underlying thread in this work will be *reason*, no matter the specific topic of the various posts. **Reason** is what's missing from those things that *seem* as though they *should have* value, yet lack it. More specifically, reason is what's missing from the crap that *claims* to have value (and does not) which utterly pervades everything in the contemporary era.
 
-Call it a new dark age; call it postmodernism run amok (not to repeat myself) ... where reason is absent, value is absent. Yes, this includes culture and, yes, that specific culture you're defending with the lie that "all culture has value". No. False. That may sound like "colonialism" (or whatever nonsense term you're using to rationalize your lack of success while taking no personal responsibility) to you which, if it does, means that this is an invitation for you to grow up and start using reason yourself. 
+Call it a new dark age; call it postmodernism run amok (not to repeat myself) ... where reason is absent, value is absent.
 
 Man is everywhere in chains because he has abdicated the use of reason and, if you seek freedom, welcome to the club of reason: you're the one-eyed man in the land of the blind!!
 
